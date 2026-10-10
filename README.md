@@ -48,8 +48,8 @@ AI 视频能生成漂亮画面，但带货视频比画面更看重"可控"：
 克隆仓库，把 Skill 文件夹放进 Codex Skills 目录：
 
 ```bash
-git clone https://github.com/nutllwhy/doubao-ai-selling-video.git
-cp -R doubao-ai-selling-video/doubao-ai-selling-video ~/.codex/skills/
+git clone https://github.com/nutllwhy/ai-selling-video.git
+cp -R ai-selling-video/doubao-ai-selling-video ~/.codex/skills/
 ```
 
 ### 其他 Agent

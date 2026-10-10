@@ -49,17 +49,17 @@ AI 视频能生成漂亮画面，但带货视频比画面更看重"可控"：
 
 ```bash
 git clone https://github.com/nutllwhy/ai-selling-video.git
-cp -R ai-selling-video/doubao-ai-selling-video ~/.codex/skills/
+cp -R ai-selling-video/ai-selling-video ~/.codex/skills/
 ```
 
 ### 其他 Agent
 
-将 `doubao-ai-selling-video` 文件夹放进当前 Agent 支持的 Skills 目录。
+将 `ai-selling-video` 文件夹放进当前 Agent 支持的 Skills 目录。
 
 ## 最简单的使用方式
 
 ```text
-请使用 doubao-ai-selling-video 这个 Skill，
+请使用 ai-selling-video 这个 Skill，
 为我上传的【产品名称】产品图制作一条 AI 带货视频的前期方案：
 主播三视图、分镜脚本与分镜图、A-roll / B-roll 视频生成提示词。
 ```
@@ -79,7 +79,7 @@ cp -R ai-selling-video/doubao-ai-selling-video ~/.codex/skills/
   → 可选：适配垫乐 + 混剪用法
 ```
 
-详细提示词模板在 `doubao-ai-selling-video/references/prompt-templates.md`，按品类适配（美妆/食品/日用品/小家电/服饰）。
+详细提示词模板在 `ai-selling-video/references/prompt-templates.md`，按品类适配（美妆/食品/日用品/小家电/服饰）。
 
 ## 如何参与迭代
 
